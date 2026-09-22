@@ -19,3 +19,5 @@ This suits developers already paying for a ChatGPT plan who keep switching conte
 ---
 
 *An independent review page written by a developer who pays for these tools; it is not affiliated with or endorsed by OpenAI, and all product names and trademarks belong to their respective owners.*
+
+_Last reviewed: 2026-09-22_
